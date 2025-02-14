@@ -3,6 +3,7 @@ name = "rags"
 version = "0.0.5"
 description = "Build RAG with natural language."
 authors = ["Jerry Liu"]
+package-mode = false
 # New attributes
 license = "MIT"
 readme = "README.md"
